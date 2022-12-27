@@ -1,6 +1,6 @@
 # Challenge 17 Regular Expressions Tutorial
 
-The purpose of this tutorialt is to walk through what a regular expression is and how to use them. Regular Expressions (Regex) can be used when you are trying to match a certain character combination within a string. This is great for pulling out information from a given body of code as well as being used for validation. For example, this tutorial will follow an example code snippet that can be used to match an email. This tutorial will go over the different components of regular expressions. 
+The purpose of this tutorial is to walk through what a regular expression is and how to use them. Regular Expressions (Regex) can be used when you are trying to match a certain character combination within a string. This is great for pulling out information from a given body of code as well as being used for validation. For example, this tutorial will follow an example code snippet that can be used to match an email. This tutorial will go over the different components of regular expressions. 
 
 
 ## Summary
